@@ -51,12 +51,12 @@ To install all the required packages for `Material-ui` using `npm` run the follo
 
 ## Installation of Material-ui using `yarn`
 
-To install all the required packages for `Material-ui` using `npm` run the following command
+##### To install all the required packages for `Material-ui` using `npm` run the following command
 `$ yarn add @material-ui/core @material-ui/icons @material-ui/lab`
 
 ## Installation of tensorflow and the pretrained model for face points detections model using `npm`
 
-To install all the required packages for `tfjs` using `npm` run the following command
+##### To install all the required packages for `tfjs` using `npm` run the following command
 `$ npm i @tensorflow/tfjs-core @tensorflow/tfjs @tensorflow-models/speech-commands @tensorflow/tfjs`
 
 ## Installation of tensorflow and the pretrained model:
