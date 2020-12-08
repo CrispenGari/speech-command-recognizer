@@ -36,17 +36,17 @@ This is a simple Machine learning React app that recognise speech from the user 
 
 ## installation of time-greeting using `npm`
 
-To install `time-greeting` run the command
+##### To install `time-greeting` run the command
 `$ npm install time-greeting`
 
 ## installation of time-greeting using `yarn`
 
-To install `time-greeting` run the command
+##### To install `time-greeting` run the command
 `$ yarn add time-greeting`
 
 ## Installation of Material-ui using `npm`
 
-To install all the required packages for `Material-ui` using `npm` run the following command
+##### To install all the required packages for `Material-ui` using `npm` run the following command
 `$ npm i @material-ui/core @material-ui/icons @material-ui/lab`
 
 ## Installation of Material-ui using `yarn`
