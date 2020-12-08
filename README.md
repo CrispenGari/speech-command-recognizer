@@ -93,7 +93,7 @@ $ yarn add @tensorflow/tfjs
 
 ## Deploying an app on firebase.
 
-Firstly you need to install `firebase-tools` globally by running:
+##### Firstly you need to install `firebase-tools` globally by running:
 `$ npm install -g firebase-tools`
 
 ##### Then
@@ -102,14 +102,14 @@ Create a firebase app in the [firebase console](https://accounts.google.com/sign
 
 ##### Then
 
-Authenticate with firebase by running the following command:
+##### Authenticate with firebase by running the following command:
 `$ firebase login`
 
 The browser window will pop up authenticate and go back to the cmd
 
 ##### Then
 
-Run the following command
+##### Run the following command
 `firebase init`
 Follow the following procedures
 
@@ -125,13 +125,13 @@ Follow the following procedures
 
 ##### Then
 
-Run the following command before deploying the app this is very important
+##### Run the following command before deploying the app this is very important
 
 `npm run build`
 
 ##### Finally
 
-Run the following command
+##### Run the following command
 `firebase deploy`
 Then you will be provided with a url visit that URL then all its done
 
